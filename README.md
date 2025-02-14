@@ -2,6 +2,8 @@
 
 **Publications**
 **Journals**
+
+
 [8] G. Giannakopoulos and K. M. Shaikh, “Phased array antennas: Advancements and applications,” Preprints in Electrical Engineering and Systems Science, vol. 2025, p. 8, 2025. [Online]. DOI:10.20944/preprints202502.1016.v1, URL: https://www.preprints.org/manuscript/202502.1016/v1
 
 [7] G. Giannakopoulos, K. M. Shaikh, and M. A. Perez, “Mobile phone studies find no short-term health problems,” Preprints in Electrical Engineering and Systems Science, vol. 2025, p. 8, 2025. [Online]. DOI: 10.20944/preprints202502.1014.v1, URL: https://doi.org/10.20944/preprints202502.1014.v1
